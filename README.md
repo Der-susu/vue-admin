@@ -1,4 +1,6 @@
-# admin
+# vue-admin
+
+## 一个简单的vue管理后台模板
 
 ## Project setup
 ```

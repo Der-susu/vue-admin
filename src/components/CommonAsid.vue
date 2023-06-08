@@ -135,11 +135,11 @@ import bus  from "./EventBus"
   }
 .el-menu{
     height: 100vh;
+    border: none;
     h3{
         color: #fff;
         text-align: center;
         line-height: 48px;
     }
-    border: none;
 }  
 </style>
